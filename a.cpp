@@ -41,6 +41,6 @@ public:
 int main(int argc, char* argv[])
 {
     Derived d;
-    d.f(2);
+    // d.f(2);
     return 0;
 }
